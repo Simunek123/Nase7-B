@@ -4,41 +4,7 @@
 <head>        
 <meta charset="utf-8">        
 <title>www.vtipy.com</title>
-    <link href="styl.css"  rel="stylesheet" type="text/css"/>
-<style>
-  background{color:green;}
- #blondynka{color: #ff1e00;} #ńevim{background-color: #00d9ff;font-size:60px;} #dalsi{color:greenyellow;}
- #dalsi{background-color: #4e2fff;}
- #nadpisi{color: #6b1c1c;}
- p{text-align:center;}
- #dalsi{font-family:Arial;
- font-size:26px;}
-h1,h2{text-align:center;}
-  article header {
-      width: 250px;
-      float: left;}
-  article section {
-      width: 710px;
-      float: left;
-      background: #72b872;}
-  #nadpis{font-family:MVBoli;
-          font-size:23px;
-          color: #7a0b0b;}
-  #ramecek{
-      border-width: solid;
-      border-left:solid;
-      border-right: solid;
-      border-horizontal: solid;
-      border-color: #bf3d3d;
-      border-style: solid;
-      border-bottom-left-radius: solid;
-      border-bottom-right-radius: solid;
-      width: solid;
-      height: solid;
-      box-shadow: 10px 10px 10px #ffce8d;}
-
-
-</style>    
+    <link href="styl.css"  rel="stylesheet" type="text/css"/>    
 </head>
 <body bgcolor="#0395c3" text="white">
 <p>
